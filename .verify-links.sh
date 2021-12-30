@@ -271,4 +271,8 @@ for file in ${mdFiles}; do
   done
 done
 
+<<<<<<< HEAD
 if [ -s ${tmp}3 ]; then exit 1 ; fi
+=======
+if [ -s ${tmp}3 ]; then exit 1 ; fi
+>>>>>>> parent of 2b7f1f1 (Initial commit)

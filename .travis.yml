@@ -2,4 +2,8 @@
   node_js: 10
   script:
     - npm install markdownlint-cli
+<<<<<<< HEAD
     - markdownlint --config .markdownlint.json --ignore docs/SUMMARY.md docs
+=======
+    - markdownlint --config .markdownlint.json --ignore docs/SUMMARY.md docs
+>>>>>>> parent of 2b7f1f1 (Initial commit)

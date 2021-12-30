@@ -4,4 +4,8 @@ root: ./docs/
 
 structure:
   readme: README.md
+<<<<<<< HEAD
   summary: SUMMARY.md
+=======
+  summary: SUMMARY.md
+>>>>>>> parent of 2b7f1f1 (Initial commit)

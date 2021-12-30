@@ -93,4 +93,8 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
+<<<<<<< HEAD
   - pymdownx.tilde
+=======
+  - pymdownx.tilde
+>>>>>>> parent of 2b7f1f1 (Initial commit)

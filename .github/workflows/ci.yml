@@ -13,4 +13,8 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
+<<<<<<< HEAD
       - run: mkdocs gh-deploy --force
+=======
+      - run: mkdocs gh-deploy --force
+>>>>>>> parent of 2b7f1f1 (Initial commit)

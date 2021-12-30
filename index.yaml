@@ -28,4 +28,8 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ibm/helm101/master/repo/stable/guestbook-0.1.0.tgz
     version: 0.1.0
+<<<<<<< HEAD
 generated: "2020-02-20T14:45:38.550903527Z"
+=======
+generated: "2020-02-20T14:45:38.550903527Z"
+>>>>>>> parent of 2b7f1f1 (Initial commit)
